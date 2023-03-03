@@ -1,4 +1,4 @@
-# Youtube Interface Clone - Next.js and Tailswind.css
+# Youtube Interface Clone - Next.js and Tailwind.css
 
 Testing Tailwind.css implementing a Youtube web interface clone.
 
