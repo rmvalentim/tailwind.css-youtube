@@ -7,7 +7,7 @@ import Chanel from "../Chanel"
 export default function Youtube() {
 
     return (
-        <main className="h-screen bg-gradient-to-r from-base to-gray-800">
+        <main className="h-screen bg-gradient-to-r from-base to-finalbase">
             <div>
                 <Navbar />
             </div>
